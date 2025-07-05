@@ -11,6 +11,8 @@
   <br />This is a <b>fork</b> of the MultiMC Launcher and is <b>not</b> endorsed by it.
 </p>
 
+## To download latest version, please navigate action tab, and select latest workflow! GitHub account required to download!
+
 ## Installation
 
 <a href="https://repology.org/project/prismlauncher/versions">
