@@ -33,7 +33,7 @@ bool AuthSession::MakeOffline(QString offline_playername)
 void AuthSession::MakeDemo(QString name, QString u)
 {
     wants_online = false;
-    demo = true;
+    demo = false;
     uuid = u;
     session = "-";
     access_token = "0";
