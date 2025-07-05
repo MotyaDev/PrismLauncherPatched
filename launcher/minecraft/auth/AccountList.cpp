@@ -108,7 +108,7 @@ QStringList AccountList::profileNames() const
 
 void AccountList::addAccount(const MinecraftAccountPtr account)
 {
-    // NOTE: Do not allow adding something that's already there. We shouldn't let it continue
+    // NOTE: Do not allow adding something that's already there. We shouldn't let it continue.
     // because of the signal / slot connections after this.
     if (m_accounts.contains(account)) {
         qDebug() << "Tried to add account that's already on the accounts list!";
