@@ -136,7 +136,7 @@ bool LaunchController::askPlayDemo()
     QMessageBox box(m_parentWidget);
     box.setWindowTitle(tr("Play demo?"));
     box.setText(
-        tr("Bypass method not worked probably.\n\nDo you want force bypass? ""));
+        tr("Bypass method not worked probably.\n\nDo you want force bypass? "));
     box.setIcon(QMessageBox::Warning);
     auto demoButton = box.addButton(tr("Force bypass"), QMessageBox::ButtonRole::YesRole);
     auto cancelButton = box.addButton(tr("Cancel"), QMessageBox::ButtonRole::NoRole);
