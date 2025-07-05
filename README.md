@@ -13,7 +13,7 @@
 
 ## To download latest version, please navigate action tab, and select latest workflow! GitHub account required to download!
 
-## I recommend (Bypass)[https://github.com/antunnitraj/Prism-Launcher-PolyMC-Offline-Bypass] if my patch is not working
+## I recommend Bypass[https://github.com/antunnitraj/Prism-Launcher-PolyMC-Offline-Bypass] if my patch is not working
 
 ## Installation
 
