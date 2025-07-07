@@ -14,5 +14,5 @@ jobs:
         with:
           token: ${{ secrets.PERSONAL_TOKEN }}
           owner: llvm
-          base: master
-          head: master
+          base: develop
+          head: develop
